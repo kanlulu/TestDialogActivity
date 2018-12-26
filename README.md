@@ -1,4 +1,4 @@
-### Android中创建具有Dialog样式的Activity
+### [Android中创建具有Dialog样式的Activity](https://blog.csdn.net/qq_36046305/article/details/85264891)
 
 简单描述来说Dialog样式的Activity就是具有Dialog的外观和Activity的特性，我们可以把他当做一种特殊的Dialog来使用。
 
